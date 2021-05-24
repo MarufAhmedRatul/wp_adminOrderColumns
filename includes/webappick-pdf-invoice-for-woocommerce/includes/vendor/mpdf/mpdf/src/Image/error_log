@@ -1,0 +1,1 @@
+[31-Mar-2021 18:21:24 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerAwareInterface' not found in /home/glamozen/shop.glamozen.com/wp-content/plugins/webappick-pdf-invoice-for-woocommerce/includes/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 31
